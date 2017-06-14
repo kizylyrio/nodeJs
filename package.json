@@ -11,5 +11,8 @@
     "url": "git@github_kizylyrio.com:kizylyrio/nodeJs.git"
   },
   "author": "Kizy",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
